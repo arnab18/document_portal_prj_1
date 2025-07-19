@@ -1,4 +1,4 @@
-##This Project is RAG Based Application called Document Portal
+## This Project is RAG Based Application called Document Portal
 
 
 
