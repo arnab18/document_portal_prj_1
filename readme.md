@@ -6,6 +6,13 @@
 3. Talk with single Doc
 4. Talk with multiple different doc
 ```
+
+## Requirements
+1. LLM Models ##groq, openai(paid),gemini,calude(paid),huggingface,ollama(good local setup)
+
+2. Embedding models ## openai,huggingface,gemini
+
+3. Vectordatabase ## inmemory, on disk ,cloud based e.g. mongodb,aws bedrock
 ## Commands we need to follow to Set up the Project
 
 ## below command is for windows(CMD)
