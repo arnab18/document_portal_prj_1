@@ -2,7 +2,7 @@
 
 
 
-## Commands needs to follow
+## Commands we need to follow to Set up the Project
 
 ## below command is for windows(CMD)
 
