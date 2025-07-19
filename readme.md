@@ -1,3 +1,7 @@
+##This Project is RAG Based Application called Document Portal
+
+
+
 ## Commands needs to follow
 
 ## below command is for windows(CMD)
