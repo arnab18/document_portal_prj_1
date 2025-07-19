@@ -13,6 +13,7 @@
 2. Embedding models ## openai,huggingface,gemini
 
 3. Vectordatabase ## inmemory, on disk ,cloud based e.g. mongodb,aws bedrock
+
 ## Commands we need to follow to Set up the Project
 
 ## below command is for windows(CMD)
