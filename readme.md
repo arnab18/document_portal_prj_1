@@ -1,7 +1,11 @@
 ## This Project is RAG Based Application called Document Portal
-
-
-
+## Features:
+```
+1. Analysing Documents
+2. Compare Documents
+3. Talk with single Doc
+4. Talk with multiple different doc
+```
 ## Commands we need to follow to Set up the Project
 
 ## below command is for windows(CMD)
