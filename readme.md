@@ -8,11 +8,33 @@
 ```
 
 ## Requirements
-1. LLM Models ##groq, openai(paid),gemini,calude(paid),huggingface,ollama(good local setup)
+### LLM Models
+- **Groq** (Free)
+- **OpenAI** (Paid)
+- **Gemini** (15 Days Free Access)
+- **Claude** (Paid)
+- **Hugging Face** (Free)
+- **Ollama** (Local Setup)
 
-2. Embedding models ## openai,huggingface,gemini
+### Embedding Models
+- **OpenAI**
+- **Hugging Face**
+- **Gemini**
 
-3. Vectordatabase ## inmemory, on disk ,cloud based e.g. mongodb,aws bedrock
+### Vector Databases
+- **In-Memory**
+- **On-Disk**
+- **Cloud-Based**
+
+## API Keys
+
+### GROQ API Key
+- [Get your API Key](https://console.groq.com/keys)  
+- [Groq Documentation](https://console.groq.com/docs/overview)
+
+### Gemini API Key
+- [Get your API Key](https://aistudio.google.com/apikey)  
+- [Gemini Documentation](https://ai.google.dev/gemini-api/docs/models)
 
 ## Commands we need to follow to Set up the Project
 
