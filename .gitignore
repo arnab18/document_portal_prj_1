@@ -5711,3 +5711,4 @@ __pycache__/
 logs/
 venv/
 document_portal.egg-info
+document_portal.egg-info/PKG-INFO
