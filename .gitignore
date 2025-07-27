@@ -5705,7 +5705,6 @@ env/Tools/scripts/__pycache__/summarize_stats.cpython-313.pyc
 env/Tools/scripts/__pycache__/var_access_benchmark.cpython-313.pyc
 .env
 env
-test.py
 *.pyc
 __pycache__/
 logs/
