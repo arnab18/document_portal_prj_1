@@ -83,3 +83,7 @@ git commit -m "<write your commit message>"
 ```
 git push
 ```
+## set env variable to set llm model
+```
+example: set LLM_PROVIDER = google
+```
