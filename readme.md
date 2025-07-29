@@ -86,4 +86,5 @@ git push
 ## set env variable to set llm model
 ```
 example: set LLM_PROVIDER = google
+Before this set this as env variable. There are various ways to do it, do it according to your wish , i have set it in my env file of my venv.
 ```
